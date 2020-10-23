@@ -19,7 +19,7 @@ php artisan vendor:publish --tag=scuti-admindek --force
 
 ```
 Route::get('/admin', function () {
-    return view('dashboard_tmp');
+    return view('dashboard');
 });
 
 Route::get('/login', function () {
