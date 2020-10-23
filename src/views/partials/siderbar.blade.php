@@ -27,81 +27,39 @@
             </li>
           </ul>
         </li>
-        <li class="pcoded-hasmenu">
+      </ul>
+      <ul class="pcoded-item pcoded-left-item" item-border="true" item-border-style="solid" subitem-border="false">
+        <li class="pcoded-hasmenu" dropdown-icon="style1" subitem-icon="style1">
           <a href="javascript:void(0)" class="waves-effect waves-dark">
-            <span class="pcoded-micon"><i class="feather icon-sidebar"></i></span>
-            <span class="pcoded-mtext">Page layouts</span>
-            <span class="pcoded-badge label label-warning">NEW</span>
+            <span class="pcoded-micon">
+              <i class="feather icon-list"></i>
+            </span>
+            <span class="pcoded-mtext">Menu Levels</span>
           </a>
-          <ul class="pcoded-submenu">
-            <li class=" pcoded-hasmenu">
+          <ul class="pcoded-submenu" style="display: none;">
+            <li class="pcoded-trigger">
               <a href="javascript:void(0)" class="waves-effect waves-dark">
-                <span class="pcoded-mtext">Vertical</span>
+                <span class="pcoded-mtext">Menu Level 2.1</span>
               </a>
-              <ul class="pcoded-submenu">
-                <li class="">
-                  <a href="menu-static.html" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Static Layout</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-header-fixed.html" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Header Fixed</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-compact.html" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Compact</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-sidebar.html" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Sidebar Fixed</span>
-                  </a>
-                </li>
-              </ul>
             </li>
-            <li class=" pcoded-hasmenu">
+            <li class="pcoded-hasmenu" dropdown-icon="style1" subitem-icon="style1">
               <a href="javascript:void(0)" class="waves-effect waves-dark">
-                <span class="pcoded-mtext">Horizontal</span>
+                <span class="pcoded-mtext">Menu Level 2.2</span>
               </a>
-              <ul class="pcoded-submenu">
+              <ul class="pcoded-submenu" style="display: none;">
                 <li class="">
-                  <a href="menu-horizontal-static.html" target="_blank" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Static Layout</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-horizontal-fixed.html" target="_blank" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Fixed layout</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-horizontal-icon.html" target="_blank" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Static With Icon</span>
-                  </a>
-                </li>
-                <li class="">
-                  <a href="menu-horizontal-icon-fixed.html" target="_blank" class="waves-effect waves-dark">
-                    <span class="pcoded-mtext">Fixed With Icon</span>
+                  <a href="javascript:void(0)" class="waves-effect waves-dark">
+                    <span class="pcoded-mtext">Menu Level 3.1</span>
                   </a>
                 </li>
               </ul>
             </li>
             <li class="">
-              <a href="menu-bottom.html" class="waves-effect waves-dark">
-                <span class="pcoded-mtext">Bottom Menu</span>
+              <a href="javascript:void(0)" class="waves-effect waves-dark">
+                <span class="pcoded-mtext">Menu Level 2.3</span>
               </a>
             </li>
           </ul>
-        </li>
-        <li class="">
-          <a href="navbar-light.html" class="waves-effect waves-dark">
-            <span class="pcoded-micon">
-              <i class="feather icon-menu"></i>
-            </span>
-            <span class="pcoded-mtext">Navigation</span>
-          </a>
         </li>
       </ul>
     </div>
