@@ -99,7 +99,7 @@
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="{{ route('profile')}}">
                   <i class="feather icon-user"></i> Profile
                 </a>
               </li>

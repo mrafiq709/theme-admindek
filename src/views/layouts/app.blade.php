@@ -95,7 +95,7 @@
 </div>
 <![endif]-->
 
-
+<script src="{{ asset('assets/js/excanvas.js') }}" type="c72f127118858a7921be8404-text/javascript"></script>
 <script src="{{ asset('assets/js/email-decode.min.js') }}"data-cfasync="false"></script>
 <script src="{{ asset('assets/js/jquery.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
 <script src="{{ asset('assets/js/jquery-ui.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
