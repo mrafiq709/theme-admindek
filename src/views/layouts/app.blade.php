@@ -33,7 +33,14 @@
 
   <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/font-awesome-n.min.css') }}">
 
-  <link rel="stylesheet" href="{{ asset('assets/css/chartist.css') }}" type="text/css" media="all">
+   <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/themify-icons.css') }}">
+
+  <link rel="stylesheet" href="{{ asset('assets/css/select2.min.css') }}" />
+
+  <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap-multiselect.css') }}" />
+  <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/multi-select.css') }}"/>
+
+  <link rel="stylesheet" href="{{ asset('assets/css/icofont.css') }}" type="text/css" media="all">
 
   <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/widget.css') }}">
   <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet" type="text/css">
@@ -95,7 +102,6 @@
 </div>
 <![endif]-->
 
-<script src="{{ asset('assets/js/excanvas.js') }}" type="c72f127118858a7921be8404-text/javascript"></script>
 <script src="{{ asset('assets/js/email-decode.min.js') }}"data-cfasync="false"></script>
 <script src="{{ asset('assets/js/jquery.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
 <script src="{{ asset('assets/js/jquery-ui.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
@@ -119,10 +125,11 @@
 
 <script src="{{ asset('assets/js/pcoded.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
 <script src="{{ asset('assets/js/vertical-layout.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
-<script src="{{ asset('assets/js/custom-dashboard.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
+
 <script src="{{ asset('assets/js/script.min.js') }}" type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
 
 <script src="{{ asset('assets/js/rocket-loader.min.js') }}" data-cf-settings="d2d1d6e2f87cbebdf4013b26-|49" defer=""></script>
+
 @yield('scripts')
 @stack('multiple_scripts')
 </body>

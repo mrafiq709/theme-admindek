@@ -1,15 +1,28 @@
-@extends('layouts.app')
+@extends('layouts.admin')
 @section('styles')
 @yield('styles_page')
 <link href="{{ asset('assets/css/profile.css') }}" rel="stylesheet" type="text/css"/>
 @endsection
-@section('body')
+@section('scripts_page')
+  <script src="{{ asset('assets/js/jquery.min.js') }}" type="text/javascript"></script>
+  <script src="{{ asset('assets/js/admin/profile.js') }}" type="text/javascript"></script>
+@endsection
+@section('content')
 <section class="profile">
   <div class="container rounded bg-white mt-5">
     <div class="row">
       <div class="col-md-4 border-right">
         <div class="d-flex flex-column align-items-center text-center p-3 py-5">
-          <img class="rounded-circle mt-5" src="{{asset('assets/media/jpg/avatar-4.jpg')}}" width="90"><span class="font-weight-bold">John Doe</span><span class="text-black-50">john_doe12@bbb.com</span><span>United States</span></div>
+          <div class="avatar-wrapper">
+            <img class="profile-pic" src="" />
+            <div class="upload-button">
+              <i class="fas fa-arrow-circle-up" aria-hidden="true"></i>
+            </div>
+            <input class="file-upload" type="file" accept="image/*"/>
+          </div>
+          <span class="font-weight-bold">John Doe</span>
+          <span class="text-black-50">john_doe12@bbb.com</span>
+          <span>United States</span></div>
       </div>
       <div class="col-md-8">
         <div class="p-3 py-5">

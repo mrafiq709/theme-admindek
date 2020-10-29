@@ -4,13 +4,13 @@
       <div class="pcoded-navigation-label">Navigation</div>
       <ul class="pcoded-item pcoded-left-item">
         <li class="pcoded-hasmenu active pcoded-trigger">
-          <a href="javascript:void(0)" class="waves-effect waves-dark">
+          <a href="{{ route('dashboard') }}" class="waves-effect waves-dark">
             <span class="pcoded-micon"><i class="feather icon-home"></i></span>
             <span class="pcoded-mtext">Dashboard</span>
           </a>
           <ul class="pcoded-submenu">
             <li class="active">
-              <a href="index.html" class="waves-effect waves-dark">
+              <a href="{{ route('dashboard') }}" class="waves-effect waves-dark">
                 <span class="pcoded-mtext">Default</span>
               </a>
             </li>
@@ -57,6 +57,26 @@
             <li class="">
               <a href="javascript:void(0)" class="waves-effect waves-dark">
                 <span class="pcoded-mtext">Menu Level 2.3</span>
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="pcoded-item pcoded-left-item" item-border="true" item-border-style="solid" subitem-border="false">
+        <li class="pcoded-hasmenu">
+          <a href="javascript:void(0)" class="waves-effect waves-dark">
+            <span class="pcoded-micon"><i class="feather icon-user"></i></span>
+            <span class="pcoded-mtext">Users</span>
+          </a>
+          <ul class="pcoded-submenu">
+            <li class="">
+              <a href="{{ route('users') }}" class="waves-effect waves-dark">
+                <span class="pcoded-mtext">List User</span>
+              </a>
+            </li>
+            <li class="">
+              <a href="{{ route('user-create')}}" class="waves-effect waves-dark">
+                <span class="pcoded-mtext">New User</span>
               </a>
             </li>
           </ul>

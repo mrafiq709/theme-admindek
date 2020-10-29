@@ -20,7 +20,7 @@ php artisan vendor:publish --tag=scuti-admindek --force
 ```
 Route::get('/admin', function () {
     return view('dashboard');
-});
+})->name('dashboard');
 
 Route::get('/login', function () {
     return view('layouts.auth');
@@ -29,6 +29,18 @@ Route::get('/login', function () {
 Route::get('/password/reset', function () {
     return view('auth.passwords.reset');
 })->name('password.reset');
+
+Route::get('/profile', function () {
+    return view('auth.profile.profile');
+})->name('profile');
+
+Route::get('admin/users', function () {
+    return view('admin.users.index');
+})->name('users');
+
+Route::get('admin/users/new', function () {
+    return view('admin.users.create');
+})->name('user-create');
 ```
 # theme-admindek
 

@@ -262,205 +262,205 @@
                         <div class="d-inline-block align-middle">
                           <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
                           <div class="d-inline-block">
-                           <h6>Shirley Hoe</h6>
-                           <p class="text-muted m-b-0">Sales executive , NY</p>
-                         </div>
-                       </div>
-                     </td>
-                     <td>Pinterest</td>
-                     <td>223</td>
-                     <td>19-11-2018</td>
-                     <td>
-                      <label class="badge badge-inverse-primary">Sketch</label>
-                      <label class="badge badge-inverse-primary">Ui</label>
-                    </td>
-                    <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <div class="d-inline-block align-middle">
-                        <img src="{{asset('assets/media/jpg/avatar-2.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
-                        <div class="d-inline-block">
-                          <h6>James Alexander</h6>
-                          <p class="text-muted m-b-0">Sales executive , EL</p>
+                            <h6>Shirley Hoe</h6>
+                            <p class="text-muted m-b-0">Sales executive , NY</p>
+                          </div>
                         </div>
-                      </div>
-                    </td>
-                    <td>Facebook</td>
-                    <td>268</td>
-                    <td>19-11-2018</td>
-                    <td>
-                      <label class="badge badge-inverse-primary">Ux</label>
-                      <label class="badge badge-inverse-danger">Ui</label>
-                      <label class="badge badge-inverse-danger">php</label>
-                    </td>
-                    <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <div class="d-inline-block align-middle">
-                        <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
-                        <div class="d-inline-block">
-                          <h6>Shirley Hoe</h6>
-                          <p class="text-muted m-b-0">Sales executive , NY</p>
+                      </td>
+                      <td>Pinterest</td>
+                      <td>223</td>
+                      <td>19-11-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-primary">Sketch</label>
+                        <label class="badge badge-inverse-primary">Ui</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="d-inline-block align-middle">
+                          <img src="{{asset('assets/media/jpg/avatar-2.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
+                          <div class="d-inline-block">
+                            <h6>James Alexander</h6>
+                            <p class="text-muted m-b-0">Sales executive , EL</p>
+                          </div>
                         </div>
-                      </div>
-                    </td>
-                    <td>Twitter</td>
-                    <td>293</td>
-                    <td>16-03-2018</td>
-                    <td>
-                      <label class="badge badge-inverse-danger">Sketch</label>
-                      <label class="badge badge-inverse-primary">Ui</label>
-                    </td>
-                    <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <div class="d-inline-block align-middle">
-                        <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
-                        <div class="d-inline-block">
-                          <h6>Shirley Hoe</h6>
-                          <p class="text-muted m-b-0">Sales executive , NY</p>
+                      </td>
+                      <td>Facebook</td>
+                      <td>268</td>
+                      <td>19-11-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-primary">Ux</label>
+                        <label class="badge badge-inverse-danger">Ui</label>
+                        <label class="badge badge-inverse-danger">php</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="d-inline-block align-middle">
+                          <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
+                          <div class="d-inline-block">
+                            <h6>Shirley Hoe</h6>
+                            <p class="text-muted m-b-0">Sales executive , NY</p>
+                          </div>
                         </div>
-                      </div>
-                    </td>
-                    <td>Pinterest</td>
-                    <td>223</td>
-                    <td>19-11-2018</td>
-                    <td>
-                      <label class="badge badge-inverse-primary">Ux</label>
-                      <label class="badge badge-inverse-success">Ui</label>
-                      <label class="badge badge-inverse-warning">php</label>
-                    </td>
-                    <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                  </tr>
-                  <tr>
-                    <td>
-                     <div class="d-inline-block align-middle">
-                      <img src="{{asset('assets/media/jpg/avatar-2.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
-                      <div class="d-inline-block">
-                        <h6>James Alexander</h6>
-                        <p class="text-muted m-b-0">Sales executive , EL</p>
-                      </div>
-                    </div>
-                  </td>
-                  <td>Facebook</td>
-                  <td>268</td>
-                  <td>19-11-2018</td>
-                  <td>
-                    <label class="badge badge-inverse-primary">Sketch</label>
-                    <label class="badge badge-inverse-primary">Ui</label>
-                  </td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-                <tr>
-                  <td>
-                    <div class="d-inline-block align-middle">
-                      <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
-                      <div class="d-inline-block">
-                        <h6>Shirley Hoe</h6>
-                        <p class="text-muted m-b-0">Sales executive , NY</p>
-                      </div>
-                    </div>
-                  </td>
-                  <td>Twitter</td>
-                  <td>293</td>
-                  <td>16-03-2018</td>
-                  <td>
-                    <label class="badge badge-inverse-danger">Sketch</label>
-                    <label class="badge badge-inverse-primary">Ui</label>
-                  </td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-              </tbody>
-            </table>
+                      </td>
+                      <td>Twitter</td>
+                      <td>293</td>
+                      <td>16-03-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-danger">Sketch</label>
+                        <label class="badge badge-inverse-primary">Ui</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="d-inline-block align-middle">
+                          <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
+                          <div class="d-inline-block">
+                            <h6>Shirley Hoe</h6>
+                            <p class="text-muted m-b-0">Sales executive , NY</p>
+                          </div>
+                        </div>
+                      </td>
+                      <td>Pinterest</td>
+                      <td>223</td>
+                      <td>19-11-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-primary">Ux</label>
+                        <label class="badge badge-inverse-success">Ui</label>
+                        <label class="badge badge-inverse-warning">php</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="d-inline-block align-middle">
+                          <img src="{{asset('assets/media/jpg/avatar-2.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
+                          <div class="d-inline-block">
+                            <h6>James Alexander</h6>
+                            <p class="text-muted m-b-0">Sales executive , EL</p>
+                          </div>
+                        </div>
+                      </td>
+                      <td>Facebook</td>
+                      <td>268</td>
+                      <td>19-11-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-primary">Sketch</label>
+                        <label class="badge badge-inverse-primary">Ui</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="d-inline-block align-middle">
+                          <img src="{{asset('assets/media/jpg/avatar-4.jpg')}}" alt="user image" class="img-radius img-40 align-top m-r-15">
+                          <div class="d-inline-block">
+                            <h6>Shirley Hoe</h6>
+                            <p class="text-muted m-b-0">Sales executive , NY</p>
+                          </div>
+                        </div>
+                      </td>
+                      <td>Twitter</td>
+                      <td>293</td>
+                      <td>16-03-2018</td>
+                      <td>
+                        <label class="badge badge-inverse-danger">Sketch</label>
+                        <label class="badge badge-inverse-primary">Ui</label>
+                      </td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
 
-    <div class="col-xl-8 col-md-6">
-      <div class="card table-card">
-        <div class="card-header">
-          <h5>New Products</h5>
-          <div class="card-header-right">
-            <ul class="list-unstyled card-option">
-              <li class="first-opt"><i class="feather icon-chevron-left open-card-option"></i></li>
-              <li><i class="feather icon-maximize full-card"></i></li>
-              <li><i class="feather icon-minus minimize-card"></i></li>
-              <li><i class="feather icon-refresh-cw reload-card"></i></li>
-              <li><i class="feather icon-trash close-card"></i></li>
-              <li><i class="feather icon-chevron-left open-card-option"></i></li>
-            </ul>
-          </div>
-        </div>
-        <div class="card-block">
-          <div class="table-responsive">
-            <table class="table table-hover m-b-0">
-              <thead>
-                <tr>
-                  <th>Product Name</th>
-                  <th>Image</th>
-                  <th>Status</th>
-                  <th>Price</th>
-                  <th>Action</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>HeadPhone</td>
-                  <td><img src="{{ asset('assets/media/jpg/p1.jpg') }}" alt="" class="img-fluid img-20"></td>
-                  <td>
-                    <div class="p-status bg-c-green"></div>
-                  </td>
-                  <td>$10</td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-                <tr>
-                  <td>Iphone 6</td>
-                  <td><img src="{{ asset('assets/media/jpg/p2.jpg') }}" alt="" class="img-fluid img-20"></td>
-                  <td>
-                    <div class="p-status bg-c-green"></div>
-                  </td>
-                  <td>$20</td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-                <tr>
-                  <td>Jacket</td>
-                  <td><img src="{{ asset('assets/media/jpg/p3.jpg') }}" alt="" class="img-fluid img-20"></td>
-                  <td>
-                    <div class="p-status bg-c-green"></div>
-                  </td>
-                  <td>$35</td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-                <tr>
-                  <td>Sofa</td>
-                  <td><img src="{{ asset('assets/media/jpg/p4.jpg') }}" alt="" class="img-fluid img-20"></td>
-                  <td>
-                    <div class="p-status bg-c-green"></div>
-                  </td>
-                  <td>$85</td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-                <tr>
-                  <td>Iphone 6</td>
-                  <td><img src="{{ asset('assets/media/jpg/p2.jpg') }}" alt="" class="img-fluid img-20"></td>
-                  <td>
-                    <div class="p-status bg-c-green"></div>
-                  </td>
-                  <td>$20</td>
-                  <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
-                </tr>
-              </tbody>
-            </table>
+        <div class="col-xl-8 col-md-6">
+          <div class="card table-card">
+            <div class="card-header">
+              <h5>New Products</h5>
+              <div class="card-header-right">
+                <ul class="list-unstyled card-option">
+                  <li class="first-opt"><i class="feather icon-chevron-left open-card-option"></i></li>
+                  <li><i class="feather icon-maximize full-card"></i></li>
+                  <li><i class="feather icon-minus minimize-card"></i></li>
+                  <li><i class="feather icon-refresh-cw reload-card"></i></li>
+                  <li><i class="feather icon-trash close-card"></i></li>
+                  <li><i class="feather icon-chevron-left open-card-option"></i></li>
+                </ul>
+              </div>
+            </div>
+            <div class="card-block">
+              <div class="table-responsive">
+                <table class="table table-hover m-b-0">
+                  <thead>
+                    <tr>
+                      <th>Product Name</th>
+                      <th>Image</th>
+                      <th>Status</th>
+                      <th>Price</th>
+                      <th>Action</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>HeadPhone</td>
+                      <td><img src="{{ asset('assets/media/jpg/p1.jpg') }}" alt="" class="img-fluid img-20"></td>
+                      <td>
+                        <div class="p-status bg-c-green"></div>
+                      </td>
+                      <td>$10</td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>Iphone 6</td>
+                      <td><img src="{{ asset('assets/media/jpg/p2.jpg') }}" alt="" class="img-fluid img-20"></td>
+                      <td>
+                        <div class="p-status bg-c-green"></div>
+                      </td>
+                      <td>$20</td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>Jacket</td>
+                      <td><img src="{{ asset('assets/media/jpg/p3.jpg') }}" alt="" class="img-fluid img-20"></td>
+                      <td>
+                        <div class="p-status bg-c-green"></div>
+                      </td>
+                      <td>$35</td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>Sofa</td>
+                      <td><img src="{{ asset('assets/media/jpg/p4.jpg') }}" alt="" class="img-fluid img-20"></td>
+                      <td>
+                        <div class="p-status bg-c-green"></div>
+                      </td>
+                      <td>$85</td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                    <tr>
+                      <td>Iphone 6</td>
+                      <td><img src="{{ asset('assets/media/jpg/p2.jpg') }}" alt="" class="img-fluid img-20"></td>
+                      <td>
+                        <div class="p-status bg-c-green"></div>
+                      </td>
+                      <td>$20</td>
+                      <td><a href="#!"><i class="icon feather icon-edit f-w-600 f-16 m-r-15 text-c-green"></i></a><a href="#!"><i class="feather icon-trash-2 f-w-600 f-16 text-c-red"></i></a></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-</div>
 </div>
 @endsection
